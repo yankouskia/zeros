@@ -1,0 +1,22 @@
+{
+  "name": "zeros",
+  "version": "1.0.0",
+  "description": "Let's count zeros!",
+  "main": "test.js",
+  "scripts": {
+    "test": "mocha test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yankouskia/zeros.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yankouskia/zeros/issues"
+  },
+  "homepage": "https://github.com/yankouskia/zeros#readme",
+  "devDependencies": {
+    "mocha": "^5.0.1"
+  }
+}
