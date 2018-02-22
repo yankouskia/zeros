@@ -3,7 +3,7 @@ Let's count zeros!
 
 ## Task
 
-Your task is to implement `getZerosCount` function, which takes any integer number `number` (`1 <= number <= 10^8`) as only argument. You should calculate *how many zeros in the end of number, which is factorial of `number` in `base` base system*
+Your task is to implement `getZerosCount` function, which takes any integer number `number` (`1 <= number <= 10^8`) as only argument. You should calculate *how many zeros in the end of result number, which is factorial of `number`*
 
 For example:
 ```js
